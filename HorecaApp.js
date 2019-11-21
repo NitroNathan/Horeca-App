@@ -4,6 +4,7 @@ const bierp = 2;
 const wijnp = 4;
 const bb8p =  7;
 const bb16p = 12;
+//constanten waar de prijzen van de aangebode producten zijn
 
 var prize= 0;
 
